@@ -1,7 +1,5 @@
 <p align="center"><img src="../assets/ssvlabs.png" alt="SSV Network"></p>
 
-<a href="https://discord.com/invite/ssvnetworkofficial"><img src="https://img.shields.io/badge/discord-%23ssvlabs-8A2BE2.svg" alt="Discord" /></a>
-
 
 At [SSV Labs](https://ssvlabs.io/) we’re building the **foundation for a truly decentralized Ethereum**. Our globally-distributed team of developers, researchers, and Ethereum enthusiasts is pushing the boundaries of **Distributed Validator Technology (DVT)** to unlock the next generation of secure, permissionless re/staking.
 
