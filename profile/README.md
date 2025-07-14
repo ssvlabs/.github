@@ -15,7 +15,8 @@ We incubate many open-source projects, here's a few that deserve the spotlight:
 * **[ssv-stack](https://github.com/ssvlabs/ssv-stack)** – a collection of tools and services that help you get started with SSV network.
 * **[ssv-specs](https://github.com/ssvlabs/ssv-specs)** – the specifications for SSV network.
 * **[ssv-sdk](https://github.com/ssvlabs/ssv-sdk)** – the SDK is a TypeScript library for interacting with the SSV network, enabling distributed validator operations on Ethereum.
-* **[gitbook-docs](https://github.com/ssvlabs/gitbook-docs)** – the documentation for SSV network.
+* **[awesome-ssv](https://github.com/ssvlabs/awesome-ssv)** – a curated list of awesome SSV resources.
+* **[gitbook-docs](https://github.com/ssvlabs/gitbook-docs)** – the documentation for SSV.
 
 ---
 
