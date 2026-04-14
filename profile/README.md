@@ -13,7 +13,7 @@ We incubate many open-source projects, here's a few that deserve the spotlight:
 * **[based-applications](https://github.com/ssvlabs/based-applications)** – everything related to Based Applications and their respective smart-contracts.
 * **[ssv-contracts](https://github.com/ssvlabs/ssv-contracts)** – the Solidity smart-contract that power the SSV network network.
 * **[ssv-stack](https://github.com/ssvlabs/ssv-stack)** – a collection of tools and services that help you get started with SSV network.
-* **[ssv-specs](https://github.com/ssvlabs/ssv-specs)** – the specifications for SSV network.
+* **[ssv-spec](https://github.com/ssvlabs/ssv-spec)** – the specifications for SSV network.
 * **[ssv-sdk](https://github.com/ssvlabs/ssv-sdk)** – the SDK is a TypeScript library for interacting with the SSV network, enabling distributed validator operations on Ethereum.
 * **[gitbook-docs](https://github.com/ssvlabs/gitbook-docs)** – the documentation for SSV network.
 
